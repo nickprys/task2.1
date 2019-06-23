@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "СреднееАрифм", "СреднееАрифм.csproj", "{49E1FDE0-A7F9-4B78-9BE5-7E5D5F8B1371}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Even sum", "..\Even sum\Even sum.csproj", "{EE036D4C-95D6-4C63-BD9C-5F23A79EDFFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "If sum even", "..\If sum even\If sum even.csproj", "{F56AB014-804E-45CE-8F79-FA1C07C6421C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49E1FDE0-A7F9-4B78-9BE5-7E5D5F8B1371}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49E1FDE0-A7F9-4B78-9BE5-7E5D5F8B1371}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49E1FDE0-A7F9-4B78-9BE5-7E5D5F8B1371}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49E1FDE0-A7F9-4B78-9BE5-7E5D5F8B1371}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE036D4C-95D6-4C63-BD9C-5F23A79EDFFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE036D4C-95D6-4C63-BD9C-5F23A79EDFFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE036D4C-95D6-4C63-BD9C-5F23A79EDFFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE036D4C-95D6-4C63-BD9C-5F23A79EDFFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F56AB014-804E-45CE-8F79-FA1C07C6421C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F56AB014-804E-45CE-8F79-FA1C07C6421C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F56AB014-804E-45CE-8F79-FA1C07C6421C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F56AB014-804E-45CE-8F79-FA1C07C6421C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3738404E-E04D-41B4-A181-12E2382CEF9C}
+	EndGlobalSection
+EndGlobal
